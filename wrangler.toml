@@ -1,0 +1,4 @@
+name = "plausible-proxy"
+type = "webpack"
+account_id = "02934uiosdfjs23980dsf"
+workers_dev = true
