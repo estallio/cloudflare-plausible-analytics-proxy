@@ -1,5 +1,5 @@
 {
-    "name": "cloudflare-plausible-proxy",
+    "name": "cloudflare-plausible-analytics-proxy",
     "private": true,
     "version": "1.0.0",
     "description": "Proxying Plausible Analytics requests over own domains to not get blocked by adblockers.",

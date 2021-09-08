@@ -1,4 +1,4 @@
-name = "cloudflare-plausible-proxy"
+name = "cloudflare-plausible-analytics-proxy"
 type = "webpack"
 account_id = "02934uiosdfjs23980dsf"
 workers_dev = true
