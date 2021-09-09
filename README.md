@@ -13,3 +13,11 @@ You have 3 possibilities to deploy this script to Cloudflare Workers:
 3. Inject this project into a CI/CD pipeline, inject the wrangler ENV variables `CF_ACCOUNT_ID`, `CF_ZONE_ID` and `CF_API_TOKEN` respectively and run the `yarn publish` command.
 
 It is also possible to configure the associated domain via wrangler or the `wrangler.toml` file like it's documented [here](https://developers.cloudflare.com/workers/get-started/guide#optional-configure-for-deploying-to-a-registered-domain).
+
+## License
+
+[MIT](https://github.com/estallio/cloudflare-plausible-analytics-proxy/blob/main/LICENSE)
+
+## Contact
+:octocat: [@estallio](https://github.com/estallio)\
+:email: [leonhard.esterbauer@gmal.com](mailto:leonhard.esterbauer@gmail.com)
