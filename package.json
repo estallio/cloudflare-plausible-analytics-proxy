@@ -9,7 +9,7 @@
         "deploy": "wrangler publish"
     },
     "author": "Leonhard Esterbauer <leonhard.esterbauer@gmail.com>",
-    "license": "ISC",
+    "license": "MIT",
     "devDependencies": {
         "@cloudflare/wrangler": "^1.19.0",
         "prettier": "^1.17.0"
