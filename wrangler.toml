@@ -1,4 +1,7 @@
 name = "cloudflare-plausible-analytics-proxy"
 type = "webpack"
-account_id = "02934uiosdfjs23980dsf"
+account_id = ""
 workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-10-16"
